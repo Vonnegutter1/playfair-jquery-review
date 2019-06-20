@@ -28,3 +28,11 @@ h1 {
 .info ul {
     list-style-type: none;
 }
+
+.text-light {
+    color: wheat;
+}
+
+.important {
+    background-color: goldenrod;
+}

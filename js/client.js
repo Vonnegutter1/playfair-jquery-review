@@ -39,7 +39,6 @@ function renderStudentList(studentList) {
         renderStudent(student);
     }
 }
-
 // This function will take in a single student and append it to 
 // the '#student' ID on the HTML page.
 function renderStudent(student) {
