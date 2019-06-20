@@ -1,0 +1,30 @@
+main {
+    width: 80%;
+    margin: auto;
+}
+body {
+    background-color: cadetblue;
+    margin: 0;
+}
+section {
+    background-color: darkslategrey; 
+    padding: 10px;
+    margin-bottom: 15px;
+}
+header {
+    text-align: center;
+    cornflowerblue
+     margin-bottom: 15px;
+}
+h1 {
+    margin: 0;
+}
+#about {
+    background-color: lightgray;
+}
+.info {
+    text-align: center;
+}
+.info ul {
+    list-style-type: none;
+}

@@ -26,9 +26,10 @@ function onReady(){
 // This function will be called when we click on a student.
 // It will show on alert saying that student is awesome. 
 function showAwesomeAlert(event){
-    console.log('Event', event);
-    console.log(this);
-    alert('check the console...');
+    //console.log('Event', event);
+// console.log(this);
+    let studentName = $(this).text();
+    alert(`${studentName} is awesome!!!`);
 
 }
 // This function will call the list of students and loops through to
